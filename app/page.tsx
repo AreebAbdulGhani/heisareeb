@@ -113,7 +113,7 @@ export default function Home() {
               <div className="flex items-center gap-6">
                 <span className="w-8 md:w-12 h-[1px] bg-gradient-to-r from-transparent to-[#bf953f]"></span>
                 <span className="text-xl md:text-4xl font-black tracking-[0.2em] gold-text uppercase drop-shadow-2xl group-hover:text-white transition-colors whitespace-nowrap">
-                  Go Beyond!!
+                  Go Beyond!!!
                 </span>
                 <span className="w-8 md:w-12 h-[1px] bg-gradient-to-l from-transparent to-[#bf953f]"></span>
               </div>
